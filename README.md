@@ -1,4 +1,33 @@
-**Expense Tracker**
----
+# 💰 Expense Tracker Python
 
-Expense Tracker is a simple expense tracker written in Python, utilizing tkinter for the GUI, and matplotlib for visualization charts.
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
+![Matplotlib](https://img.shields.io/badge/Charts-Matplotlib-red?logo=matplotlib)
+
+A desktop application for tracking personal expenses with data visualization capabilities.
+
+## ✨ Features
+- ➕ Add/delete expense records
+- 📅 Filter by date ranges
+- 📊 Interactive charts (Pie/Bar) via Matplotlib
+- 💾 Local SQLite database storage
+- 🖥️ User-friendly Tkinter GUI
+
+## 🛠️ Tech Stack
+| Component       | Technology           |
+|----------------|---------------------|
+| Core Language  | Python 3.8+         |
+| GUI Framework  | Tkinter             |
+| Data Viz       | Matplotlib          |
+| Database       | SQLite              |
+
+## 🚀 Installation
+```bash
+# Clone repository
+git clone https://github.com/your-username/python-expense-tracker.git
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run application
+python main.py
