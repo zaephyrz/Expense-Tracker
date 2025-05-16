@@ -10,7 +10,7 @@ A desktop application for tracking personal expenses with data visualization cap
 - ➕ Add/delete expense records
 - 📅 Filter by date ranges
 - 📊 Interactive charts (Pie/Bar) via Matplotlib
-- 💾 Local SQLite database storage
+- 💾 Export to CSV file
 - 🖥️ User-friendly Tkinter GUI
 
 ## 🛠️ Tech Stack
@@ -19,7 +19,7 @@ A desktop application for tracking personal expenses with data visualization cap
 | Core Language  | Python 3.8+         |
 | GUI Framework  | Tkinter             |
 | Data Viz       | Matplotlib          |
-| Database       | SQLite              |
+| Storage        | CSV                 |
 
 ## 🚀 Installation
 ```bash
