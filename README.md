@@ -1,4 +1,4 @@
-# 💰 Expense Tracker Python
+# 💰 Expense Tracker
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
