@@ -26,8 +26,8 @@ A desktop application for tracking personal expenses with data visualization cap
 # Clone repository
 git clone https://github.com/zaephyrz/python-expense-tracker.git
 
-# Install dependencies
-pip install -r requirements.txt
+# Install matplotlib
+pip install matplotlib
 
 # Run application
 python main.py
